@@ -1,14 +1,14 @@
 import React from 'react';
-import { 
-  Cloud, 
-  Users, 
-  Calendar, 
-  BookOpen, 
-  Award, 
-  MapPin, 
-  Mail, 
-  Github, 
-  Linkedin, 
+import {
+  Cloud,
+  Users,
+  Calendar,
+  BookOpen,
+  Award,
+  MapPin,
+  Mail,
+  Github,
+  Linkedin,
   MessageCircle,
   ArrowRight,
   Star,
@@ -50,11 +50,11 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-              Welcome to
-              <span className="block text-blue-600">Azure Community Philippines</span>
+              Hello
+              <span className="block text-blue-600">World!!!</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
-              Join the largest community of Azure enthusiasts, developers, and IT professionals in the Philippines. 
+              Join the largest community of Azure enthusiasts, developers, and IT professionals in the Philippines.
               Learn, share, and grow together while building the future of cloud computing.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -97,7 +97,7 @@ function App() {
             <div>
               <h3 className="text-2xl font-bold text-gray-900 mb-6">Our Mission</h3>
               <p className="text-gray-600 mb-6 leading-relaxed">
-                To create a vibrant ecosystem where Filipino tech professionals can learn, collaborate, and excel 
+                To create a vibrant ecosystem where Filipino tech professionals can learn, collaborate, and excel
                 in Microsoft Azure technologies. We believe in the power of community-driven learning and knowledge sharing.
               </p>
               <div className="space-y-4">
@@ -300,7 +300,7 @@ function App() {
                 </div>
               </div>
               <p className="text-gray-400 mb-6 leading-relaxed">
-                Empowering Filipino developers and IT professionals with Azure knowledge and skills. 
+                Empowering Filipino developers and IT professionals with Azure knowledge and skills.
                 Join our community and be part of the cloud revolution in the Philippines.
               </p>
               <div className="flex items-center space-x-4">
